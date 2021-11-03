@@ -1,6 +1,6 @@
 % ====================================================
 %> @brief Gets the number of samples, that should be stored at the
-%>        acquisition. Only 
+%>        acquisition. 
 %>
 %> @param obj Instance of class
 %>
